@@ -1,0 +1,10 @@
+D:\Bks\BD_rassort\FormRasort\FormRasort\bin\Debug\FormRasort.exe.config
+D:\Bks\BD_rassort\FormRasort\FormRasort\bin\Debug\FormRasort.exe
+D:\Bks\BD_rassort\FormRasort\FormRasort\bin\Debug\FormRasort.pdb
+D:\Bks\BD_rassort\FormRasort\FormRasort\obj\Debug\FormRasort.csprojAssemblyReference.cache
+D:\Bks\BD_rassort\FormRasort\FormRasort\obj\Debug\FormRasort.Form1.resources
+D:\Bks\BD_rassort\FormRasort\FormRasort\obj\Debug\FormRasort.Properties.Resources.resources
+D:\Bks\BD_rassort\FormRasort\FormRasort\obj\Debug\FormRasort.csproj.GenerateResource.cache
+D:\Bks\BD_rassort\FormRasort\FormRasort\obj\Debug\FormRasort.csproj.CoreCompileInputs.cache
+D:\Bks\BD_rassort\FormRasort\FormRasort\obj\Debug\FormRasort.exe
+D:\Bks\BD_rassort\FormRasort\FormRasort\obj\Debug\FormRasort.pdb
