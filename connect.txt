@@ -1,1 +1,0 @@
-Provider=Microsoft.ACE.OLEDB.12.0;Data Source=D:\Bks\BD_rassort\BD_Rassort.accdb
